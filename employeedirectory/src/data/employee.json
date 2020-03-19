@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Tom",
+        "lastName": "Smith",
+        "age": 19,
+        "gender": "male",
+        "race": "Caucasian",
+        "religion": "Athiest"
+    },
+    {
+        "firstName": "Sarah",
+        "lastName": "Smith",
+        "age": 18,
+        "gender": "female",
+        "race": "Caucasian",
+        "religion": "Athiest"
+    }
+]
